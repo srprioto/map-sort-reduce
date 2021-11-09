@@ -130,10 +130,6 @@ function main(contenido) {
 
 
         `;
-
-        console.log(dataMap);
-        console.log(dataShuf);
-        console.log(dataRed);
     
         let i = 0;
     
